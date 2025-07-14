@@ -1,1 +1,736 @@
-{"sections":{"image_banner_responsive_ptLMBp":{"type":"image-banner-responsive","settings":{"image":"shopify:\/\/shop_images\/1.svg","mobile_image":"shopify:\/\/shop_images\/Peachmelody_Mobile_Hero_SECTION_800_x_1000_px.svg","banner_link":"shopify:\/\/collections\/new-arrivals","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"collection_list_RtdDXa":{"type":"collection-list","blocks":{"featured_collection_XqpPVk":{"type":"featured_collection","settings":{"collection":"all-things-new"}},"featured_collection_7KRgmY":{"type":"featured_collection","settings":{"collection":"best-sellers"}},"featured_collection_9gYVwV":{"type":"featured_collection","settings":{"collection":"now-on-sale"}},"featured_collection_8z9gby":{"type":"featured_collection","settings":{"collection":"new-arrivals"}}},"block_order":["featured_collection_XqpPVk","featured_collection_7KRgmY","featured_collection_9gYVwV","featured_collection_8z9gby"],"custom_css":[],"settings":{"title":"","heading_size":"h1","image_ratio":"adapt","columns_desktop":4,"color_scheme":"scheme-c829191c-7dae-4998-9b75-2ea1f54493d3","show_view_all":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"section_marquee_3k_RTDeGR":{"type":"section-marquee-3k","settings":{"text":"<h4><strong>❤ WINTER SALE COMING ❤<\/strong><\/h4>","speed_range":0.6,"pause_marquee":false,"reverse_direction":false,"text_color":"#ffffff","background_color":"#fc79aa","font_size":1.5,"letter_spacing":0,"gap_size":12,"padding_top":12,"padding_bottom":12}},"featured_collection_FfwPfn":{"type":"featured-collection","custom_css":[],"settings":{"title":"<strong>Fresh Looks Daily!<\/strong>","heading_size":"h2","description":"<h4>New Arrivals, Fully Loaded: Get Yours Today!<\/h4>","show_description":false,"description_style":"body","collection":"best-sellers","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-c829191c-7dae-4998-9b75-2ea1f54493d3","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"image_banner_CQF48C":{"type":"image-banner","settings":{"image":"shopify:\/\/shop_images\/SUBSCRIBE_SHOPIFY.svg","image_overlay_opacity":0,"banner_link":"","image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"newsletter_4qdd7D":{"type":"newsletter","blocks":{"email_form_nM4fHh":{"type":"email_form","settings":{}}},"block_order":["email_form_nM4fHh"],"custom_css":[".newsletter-form__field-wrapper .field__input {background-color: #fff; border-radius: 8px; box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.29);}"],"settings":{"color_scheme":"scheme-6302a415-6efb-4687-9371-3fe7388774a6","full_width":true,"padding_top":0,"padding_bottom":20}},"image_banner_responsive_QJrYAE":{"type":"image-banner-responsive","custom_css":["{margin-top: 30px;}"],"settings":{"image":"shopify:\/\/shop_images\/2.svg","mobile_image":"shopify:\/\/shop_images\/2_fce98ef4-109e-4632-bb33-9a6aeb4c517b.svg","banner_link":"shopify:\/\/collections\/best-sellers","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"multirow_6GnUzp":{"type":"multirow","blocks":{"row_cJEGTB":{"type":"row","settings":{"image":"shopify:\/\/shop_images\/model-laughs-barefoot.jpg","caption":"","heading":"<strong>About us<\/strong>","text":"<h4>Good day! We are thrilled to have you as our customer and we would like to take this opportunity to share some information about our brand with you. Our company has been in the business for several years now and we are dedicated to delivering high-quality products to meet your needs and exceed your expectations.<\/h4>","button_label":"Click here","button_link":"shopify:\/\/pages\/about-us"}}},"block_order":["row_cJEGTB"],"custom_css":[".image-with-text__content .image-with-text__text + .button {background: #fea86a;}"],"settings":{"image_height":"medium","desktop_image_width":"medium","heading_size":"h1","text_style":"body","button_style":"primary","desktop_content_position":"middle","desktop_content_alignment":"left","image_layout":"alternate-left","section_color_scheme":"scheme-8dfed2a5-cd49-4c09-8235-f73e1f974ae5","row_color_scheme":"scheme-6302a415-6efb-4687-9371-3fe7388774a6","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36}},"section_marquee_3k_TqFjdb":{"type":"section-marquee-3k","custom_css":["{margin-top: 30px;}"],"settings":{"text":"<h4><strong>❤ USE CODE \"NEW30\" FOR 30% OFF NEW ARRIVALS ❤<\/strong><\/h4>","speed_range":0.6,"pause_marquee":false,"reverse_direction":false,"text_color":"#FFFFFF","background_color":"#ffc645","font_size":1.5,"letter_spacing":0,"gap_size":22,"padding_top":12,"padding_bottom":12}},"featured_collection_dQjFnL":{"type":"featured-collection","settings":{"title":"<strong>New In, Now Out!<\/strong>","heading_size":"h2","description":"<h3>All-New, Fully Stocked: Don't Miss Out!<\/h3>","show_description":false,"description_style":"body","collection":"now-on-sale","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-2bf0b847-6646-4a40-b17d-2d0e32772554","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"image_banner_responsive_LtBgAR":{"type":"image-banner-responsive","settings":{"image":"shopify:\/\/shop_images\/3.svg","mobile_image":"shopify:\/\/shop_images\/3_e5399f02-f068-4e2a-9362-9a61b45104b3.svg","banner_link":"shopify:\/\/collections\/now-on-sale","image_overlay_opacity":0,"image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"image_banner_zMjQCe":{"type":"image-banner","custom_css":["{margin-top: 30px;}"],"settings":{"image":"shopify:\/\/shop_images\/CUSTOMERS_SHOPIFY.svg","image_overlay_opacity":0,"banner_link":"","image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"multicolumn_mdL4YG":{"type":"multicolumn","blocks":{"column_McEVEH":{"type":"column","settings":{"title":"★★★★★","text":"<h2><strong>I love it so much!<\/strong><\/h2><h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/h4>","link_label":"","link":""}},"column_ptEi3X":{"type":"column","settings":{"title":"★★★★★","text":"<h2><strong>I love it so much!<\/strong><\/h2><h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/h4>","link_label":"","link":""}},"column_tUzmfm":{"type":"column","settings":{"title":"★★★★★","text":"<h2><strong>I love it so much!<\/strong><\/h2><h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/h4>","link_label":"","link":""}}},"block_order":["column_McEVEH","column_ptEi3X","column_tUzmfm"],"custom_css":["{text-align: center;}"],"settings":{"title":"","heading_size":"h2","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"","button_link":"","color_scheme":"scheme-6302a415-6efb-4687-9371-3fe7388774a6","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"image_banner_c8tNfJ":{"type":"image-banner","custom_css":["{margin-top: 30px;}"],"settings":{"image":"shopify:\/\/shop_images\/INSTAGRAM.svg","image_overlay_opacity":0,"banner_link":"","image_height":"adapt","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"17097078452a075446":{"type":"apps","blocks":{"instafeed_app_block_WnamgM":{"type":"shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5","settings":{"title":"","title_color":"","alignment":"center","background_color":"","html_area":""}}},"block_order":["instafeed_app_block_WnamgM"],"custom_css":["{margin-top: 10px; padding: 0px;}"],"settings":{"include_margins":false}}},"order":["image_banner_responsive_ptLMBp","collection_list_RtdDXa","section_marquee_3k_RTDeGR","featured_collection_FfwPfn","image_banner_CQF48C","newsletter_4qdd7D","image_banner_responsive_QJrYAE","multirow_6GnUzp","section_marquee_3k_TqFjdb","featured_collection_dQjFnL","image_banner_responsive_LtBgAR","image_banner_zMjQCe","multicolumn_mdL4YG","image_banner_c8tNfJ","17097078452a075446"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_marquee_3k_YKBfex": {
+      "type": "section-marquee-3k",
+      "name": "Marquee Section",
+      "settings": {
+        "text": "<h2>Dive into the offbeat World of Good Vibrations Adult Super Store! Plenty of vibes for all kinds of tribes...</h2>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ff91a0",
+        "background_color": "#092e0c",
+        "font_size": 2,
+        "letter_spacing": 3,
+        "gap_size": 45,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "image_banner_responsive_DW7A94": {
+      "type": "image-banner-responsive",
+      "settings": {
+        "image": "shopify://shop_images/6de37e317c81c6fd3e076aad1267576b_996d4c17-3011-4092-89b1-ad663529d713.png",
+        "banner_link": "shopify://collections/best-sellers",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "section_marquee_3k_QgCVa6": {
+      "type": "section-marquee-3k",
+      "settings": {
+        "text": "<h2><strong>❤ SUMMER SALE COMING SOON ❤</strong></h2>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ffffff",
+        "background_color": "#ff99ab",
+        "font_size": 3,
+        "letter_spacing": 0,
+        "gap_size": 45,
+        "padding_top": 12,
+        "padding_bottom": 8
+      }
+    },
+    "collage_a774pL": {
+      "type": "collage",
+      "blocks": {
+        "collection_F87zij": {
+          "type": "collection",
+          "settings": {
+            "collection": "boutique-summer-sweatshirts"
+          }
+        },
+        "collection_k8EVp6": {
+          "type": "collection",
+          "settings": {
+            "collection": "boutique-summer-shirts"
+          }
+        },
+        "collection_reqHjw": {
+          "type": "collection",
+          "settings": {
+            "collection": "boutique-summer-extras"
+          }
+        }
+      },
+      "block_order": [
+        "collection_F87zij",
+        "collection_k8EVp6",
+        "collection_reqHjw"
+      ],
+      "name": "t:sections.collage.presets.name",
+      "settings": {
+        "heading": "Summer Vibes Collection",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-3",
+        "padding_top": 56,
+        "padding_bottom": 100
+      }
+    },
+    "section_marquee_3k_RTDeGR": {
+      "type": "section-marquee-3k",
+      "settings": {
+        "text": "<h4><strong>❤ SUMMER SALE COMING ❤</strong></h4>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ffffff",
+        "background_color": "#fc79aa",
+        "font_size": 1.5,
+        "letter_spacing": 0,
+        "gap_size": 12,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "multirow_EJnTjE": {
+      "type": "multirow",
+      "blocks": {
+        "row_DPchJg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-sports-tee-black-front-67afaa87e7566_beafbac0-9491-43c6-8dd5-d5d327b9cea5.webp",
+            "caption": "EveryDay",
+            "heading": "T-Shirts",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "T-Shirt Vibes",
+            "button_link": "shopify://collections/boutique-t-shirts"
+          }
+        },
+        "row_eeK8Ya": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-crew-neck-sweatshirt-sand-front-and-back-68634789ed36d_dee1f737-0c4f-4ee7-93ed-93177d2e353d.jpg",
+            "caption": "Its Sweater weather...",
+            "heading": "Sweatshirts Vibes",
+            "text": "<p>Our Sweater Selection features styles perfect for everyday wear all year round. Swing by for the amusement!</p>",
+            "button_label": "Sweatshirt Vibes",
+            "button_link": "shopify://collections/boutique-sweatshirts"
+          }
+        },
+        "row_3AnGy4": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-premium-hoodie-sky-blue-front-67ae94eca178d_07a3c7fd-b0ee-4c7d-b851-2bafeed736d3.webp",
+            "caption": "everyday",
+            "heading": "Hoodies",
+            "text": "<p>Our Hoodies Collection showcases designs for everyday wear that work all year long. Pop in for the fun!</p>",
+            "button_label": "Hoodie Vibes",
+            "button_link": "shopify://collections/boutique-hoodies"
+          }
+        }
+      },
+      "block_order": [
+        "row_DPchJg",
+        "row_eeK8Ya",
+        "row_3AnGy4"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-2",
+        "row_color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_ajUJ43": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "KC Kingdom Collection",
+        "heading_size": "h1",
+        "description": "<p>Where you gotta fight, for your right, to party!</p>",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "boutique-kc-kingdom",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_marquee_3k_pk4674": {
+      "type": "section-marquee-3k",
+      "settings": {
+        "text": "<h4><strong>❤ SUMMER SALE COMING ❤</strong></h4>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ffffff",
+        "background_color": "#fc79aa",
+        "font_size": 1.5,
+        "letter_spacing": 0,
+        "gap_size": 12,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "featured_collection_VxUhUN": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Camp Vibes Collection",
+        "heading_size": "h1",
+        "description": "<p>Tank, T-Shirts, Sweatshirts, and Hoodies. Teach in comfort & Style.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "camping-collection",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_CQF48C": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Magical_Bowtique_Logo_2_406d31d0-aada-4a61-a093-66290e342cc2.png",
+        "image_overlay_opacity": 0,
+        "banner_link": "",
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multirow_zntzej": {
+      "type": "multirow",
+      "blocks": {
+        "row_iDVtc8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-premium-hoodie-bone-front-683bcfedea6c7_af155324-d02b-4ad9-a859-aa70b602148c.jpg",
+            "caption": "#Proud #HardWorking #Spoiledwife",
+            "heading": "Blue Collar Vibes",
+            "text": "<p>Tank Tops, T-Shirts, Sweatshirts, & Hoodies designed with the working man in mind.</p>",
+            "button_label": "Coming Soon",
+            "button_link": "shopify://collections/camping-collection"
+          }
+        },
+        "row_QpzdpB": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-staple-t-shirt-soft-cream-front-and-back-6868070965762_0f8167d3-0166-4a91-b40b-3307b3136c58.jpg",
+            "caption": "",
+            "heading": "Nurse Vibes",
+            "text": "<p>Tank Tops, T-Shirts, Sweatshirts, & Hoodies designed with Healthcare Heroes in mind.</p>",
+            "button_label": "Nurse Vibes Coming Soon",
+            "button_link": "shopify://collections/nurse-collection"
+          }
+        },
+        "row_7fFppK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-crew-neck-sweatshirt-carolina-blue-front-and-back-686745a30fc8b_7a280c87-0c5d-41cc-854d-01b352a5c651.jpg",
+            "caption": "Everyday Hero Collection",
+            "heading": "Teacher Vibes",
+            "text": "<p>Tank Tops, T-Shirts, Sweatshirts, & Hoodies crafted for teaching in style with a playful twist. Add some zest to your wardrobe, education aficionados!</p>",
+            "button_label": "Teaching Vibes Coming Soon",
+            "button_link": "shopify://collections/back-to-school-collection"
+          }
+        }
+      },
+      "block_order": [
+        "row_iDVtc8",
+        "row_QpzdpB",
+        "row_7fFppK"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "row_color_scheme": "scheme-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_m6rYk4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "<strong>Pride Collection</strong>",
+        "heading_size": "h1",
+        "description": "<h4>Whether You're Fruity & Fabulous Or Just Showing Some Love, We Got Your Back!</h4>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "pride-collection",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_WDFCHi": {
+      "type": "multirow",
+      "blocks": {
+        "row_tB8xUG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-staple-t-shirt-black-heather-front-and-back-684da09c4e1e4.webp",
+            "caption": "WE FEEL ALL THE VIBES HERE...",
+            "heading": "Dad Vibes",
+            "text": "<p>The Collection Where You Can Easily Find Tanks, T-shirts,  Sweatshirts, & Hoodies dedicated just for Dads Any Time Of The Year.</p>",
+            "button_label": "Dad Vibes T-Shirts",
+            "button_link": "https://good-vibrations.store/collections/fathers-day-t-shirts"
+          }
+        },
+        "row_zLrYfd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-staple-t-shirt-black-heather-front-and-back-684bd29f6a3b1.webp",
+            "caption": "this collection is a homerun!",
+            "heading": "Sports Parent Vibes",
+            "text": "<p>Tanks, T-shirts, Sweatshirts, & Hoodies designed specifically for those proud parent moments! Collections are slowly, but surely growing. Be patient. Good Things Take Time & all Shirts are designed individually.</p>",
+            "button_label": "Sports Collection Coming Soon",
+            "button_link": ""
+          }
+        },
+        "row_APHJTm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-classic-tee-carolina-blue-front-and-back-68508650e2b43.webp",
+            "caption": "From Everyday mom shirts to more special occasions",
+            "heading": "Mom Vibes",
+            "text": "<p>Tank, T-shirts, Sweatshirts, & Hoodies <br/>From Everyday Mom Shirts To More Special Occasions. Find them all in The Mom Collection.<br/></p>",
+            "button_label": "Mom Vibe T-shirts",
+            "button_link": "shopify://collections/boutique-mom-shirts"
+          }
+        }
+      },
+      "block_order": [
+        "row_tB8xUG",
+        "row_zLrYfd",
+        "row_APHJTm"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "row_color_scheme": "scheme-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 64
+      }
+    },
+    "image_banner_VP7cJk": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Copy_of_RAINBOW_BOUTIQU_Website_BANNER_Medium_Banner_US_Landscape.png",
+        "image_overlay_opacity": 0,
+        "banner_link": "",
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_ce4teM": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Gizmo's & Gadgets Giftshop",
+        "heading_size": "h0",
+        "description": "<p>Gizmo and Gadget to the rescue! Supporting you in uncovering amazing products at unbeatable prices. <br/>Whether you're on the hunt for a gift or just indulging yourself, You've hit the jackpot! Find a mix of Hot Selling Household goodies and bling. #TreatYoSelf<br/><br/></p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "hot-selling-gifts",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_jCTifQ": {
+      "type": "multirow",
+      "blocks": {
+        "row_KMFHde": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Sc1db9069e18c4ddabb14bbe40dba1682e_a152d7b6-d196-4cc9-8fac-337959b3f731.webp",
+            "caption": "spoil yourself or someone you love...",
+            "heading": "Jewelry",
+            "text": "<p>Jewelry Sets, Necklaces, Bracelets, Earrings, & Rings.  We Even Have More Than Affordable Body Art Jewelry Collections Available which include Tongue, Belly Button, & Nipple Rings.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_K3MDBn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/S855af7ff3e19445a924c896fe802b279I_d8ebf84b-7986-45ba-a951-d9a1a2340bdf.webp",
+            "caption": "Time Is Truly Priceless, but should be affordable...",
+            "heading": "Watches",
+            "text": "<p>Tick Tock: Find Your Style with Our Timeless Collection of Watches!</p>",
+            "button_label": "Tick Tock Vibes",
+            "button_link": ""
+          }
+        },
+        "row_rxiELb": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Sf8df754e83cd4e85b1a7d3b2393aa725I_27a64adf-98b3-4f82-aea9-dab8607e6185.webp",
+            "caption": "Large & Small",
+            "heading": "Purse & Wallet Vibes",
+            "text": "<p>Score some sweet deals on purses and wallets; being on-trend shouldn't break the bank, especially when they end up collecting dust in the closet!</p>",
+            "button_label": "Purse Vibes",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_KMFHde",
+        "row_K3MDBn",
+        "row_rxiELb"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-2",
+        "row_color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_87Lk3X": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Kc6RyU": {
+          "type": "heading",
+          "settings": {
+            "heading": "More Stores Available Below...",
+            "heading_size": "h1"
+          }
+        },
+        "text_VRkxE4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Below you will find The Pleasure Chest (Adult Toy Store), Puff N Pass, Sassy Soles (Shoe Shop), & What the Cup?! Creations.  Fun cups, mugs, tumblers, & more</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Kc6RyU",
+        "text_VRkxE4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_k88N8P": {
+      "type": "multirow",
+      "blocks": {
+        "row_tatfnW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/womens-high-top-canvas-shoes-white-left-67c7b4baeaae6_70d30636-188c-43ad-afeb-424a34f7f1b6.jpg",
+            "caption": "Shoe shop",
+            "heading": "Sassy Soles",
+            "text": "<p>Swing by to peep our groovy custom kicks collection & have 'em sent right to your doorstep! Dudes & Dudettes Sneakers & Slides & More. Swing on By!</p>",
+            "button_label": "SASSY SOLES VIBES",
+            "button_link": ""
+          }
+        },
+        "row_EkXkc3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/stainless-steel-tumbler-black-front-67b00622dbdde_c21c3817-e444-44a5-9443-44651fe3d598.jpg",
+            "caption": "Creations",
+            "heading": "What The Cup?!?",
+            "text": "<p>Stop by to see our funky custom cup lineups & get 'em shipped to your doorstep! Wine Tumblers, Tumblers of multiple shapes and sizes galore, Travel Mugs, & More.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_yPgMWr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/0_6c579b55-10d1-42f5-afd5-9a21362d888e.jpg",
+            "caption": "yea... you walk that plank.",
+            "heading": "The Pleasure Chest",
+            "text": "<p>Come and explore the collections avaliabe at The Pleasure Chest.  It offers adult toys for men, women, couples, & more. Come & Take a Peek. </p>",
+            "button_label": "THE PLEASURE CHEST VIBES",
+            "button_link": ""
+          }
+        },
+        "row_AwzDKz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/2.png",
+            "caption": "Under Construction",
+            "heading": "Puff-N-Pass",
+            "text": "<p>Only Partial store inventory available while under construction.</p>",
+            "button_label": "Button label",
+            "button_link": "shopify://collections/stash-containers"
+          }
+        },
+        "row_NECEbr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/ABOUT_US.png",
+            "caption": "#Where Who says you cant have it all?",
+            "heading": "<strong>About us</strong>",
+            "text": "<h4>Good day! We are thrilled to have you as our customer and we would like to take this opportunity to share some information about our brand with you. </h4><h4>Our company just recently \"opened its doors\" officially. We are an online only Adult Super Store. </h4><h4>Introducing the Broke & Boujee Boutique, known for its UNIQUE clothing that's truly out of this world! Each design is meticulously crafted, and you can customize the size and color before it's delivered to your door.</h4><h4>The store showcases Gizmo's & Gadgets Giftshop with an array of treasures and items perfect for self-pampering or gifting. Discover body art jewelry, daily jewelry sets, watches, purses, and home gifts. Special options are available for when Mother's Day rolls around.</h4><h4>Pandoras PlayBox; our adult toy Emporium that is all about sharing the love & self care. They carry toys for She, Him, Them & couples from vanilla to make you blush.</h4><h4>We Also have Puff N Pass which is temporarily under construction.</h4><h4>We are completely woman owned and operated & dedicated to delivering high-quality products to meet your needs and exceed your expectations. If any issues arise please feel free to reach out to us.</h4>",
+            "button_label": "KC Kingdom Natives",
+            "button_link": "shopify://collections/boutique-kc-kingdom"
+          }
+        }
+      },
+      "block_order": [
+        "row_tatfnW",
+        "row_EkXkc3",
+        "row_yPgMWr",
+        "row_AwzDKz",
+        "row_NECEbr"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-2",
+        "row_color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "mobile_content_alignment": "center",
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "image_banner_responsive_QJrYAE": {
+      "type": "image-banner-responsive",
+      "custom_css": [
+        "{margin-top: 30px;}"
+      ],
+      "settings": {
+        "banner_link": "shopify://collections/best-sellers",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "section_marquee_3k_TqFjdb": {
+      "type": "section-marquee-3k",
+      "custom_css": [
+        "{margin-top: 30px;}"
+      ],
+      "settings": {
+        "text": "<h4><strong>❤ USE CODE \"NEW30\" FOR 30% OFF NEW ARRIVALS ❤</strong></h4>",
+        "speed_range": 0.6,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ffffff",
+        "background_color": "#ffc645",
+        "font_size": 1.5,
+        "letter_spacing": 0,
+        "gap_size": 22,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "image_banner_responsive_LtBgAR": {
+      "type": "image-banner-responsive",
+      "settings": {
+        "banner_link": "shopify://collections/now-on-sale",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_zMjQCe": {
+      "type": "image-banner",
+      "custom_css": [
+        "{margin-top: 30px;}"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "banner_link": "",
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "17097078452a075446": {
+      "type": "apps",
+      "custom_css": [
+        "{margin-top: 10px; padding: 0px;}"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    }
+  },
+  "order": [
+    "section_marquee_3k_YKBfex",
+    "image_banner_responsive_DW7A94",
+    "section_marquee_3k_QgCVa6",
+    "collage_a774pL",
+    "section_marquee_3k_RTDeGR",
+    "multirow_EJnTjE",
+    "featured_collection_ajUJ43",
+    "section_marquee_3k_pk4674",
+    "featured_collection_VxUhUN",
+    "image_banner_CQF48C",
+    "multirow_zntzej",
+    "featured_collection_m6rYk4",
+    "multirow_WDFCHi",
+    "image_banner_VP7cJk",
+    "featured_collection_ce4teM",
+    "multirow_jCTifQ",
+    "rich_text_87Lk3X",
+    "multirow_k88N8P",
+    "image_banner_responsive_QJrYAE",
+    "section_marquee_3k_TqFjdb",
+    "image_banner_responsive_LtBgAR",
+    "image_banner_zMjQCe",
+    "17097078452a075446"
+  ]
+}
