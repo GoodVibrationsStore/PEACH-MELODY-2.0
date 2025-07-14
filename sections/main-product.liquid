@@ -558,7 +558,7 @@
                                 <ul class="list-unstyled" role="list">
                                   {%- for product in recommendations.products
                                     limit: block.settings.products_per_page
-                                    offset: continue
+                                    offset: forloop.index0 | times: block.settings.products_per_page
                                   -%}
                                     <li>
                                       {% render 'card-product',

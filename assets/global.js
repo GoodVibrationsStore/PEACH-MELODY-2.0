@@ -1,3 +1,41 @@
+// === Dark Mode Toggle Logic ===
+function setDarkMode(enabled) {
+  if (enabled) {
+    document.body.classList.add('dark-mode');
+    localStorage.setItem('darkMode', 'on');
+  } else {
+    document.body.classList.remove('dark-mode');
+    localStorage.setItem('darkMode', 'off');
+  }
+  // Sync both toggles
+  const toggles = document.querySelectorAll('.dark-mode-toggle');
+  toggles.forEach(btn => {
+    if (enabled) {
+      btn.classList.add('active');
+      btn.querySelector('.dark-toggle-icon').textContent = '☀️';
+      btn.querySelector('.dark-toggle-label').textContent = 'Light Mode';
+    } else {
+      btn.classList.remove('active');
+      btn.querySelector('.dark-toggle-icon').textContent = '🌙';
+      btn.querySelector('.dark-toggle-label').textContent = 'Dark Mode';
+    }
+  });
+}
+
+function toggleDarkMode() {
+  const isDark = document.body.classList.contains('dark-mode');
+  setDarkMode(!isDark);
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Initial state from localStorage
+  const darkPref = localStorage.getItem('darkMode');
+  setDarkMode(darkPref === 'on');
+  // Add event listeners to both toggles
+  document.querySelectorAll('.dark-mode-toggle').forEach(btn => {
+    btn.addEventListener('click', toggleDarkMode);
+  });
+});
 function getFocusableElements(container) {
   return Array.from(
     container.querySelectorAll(

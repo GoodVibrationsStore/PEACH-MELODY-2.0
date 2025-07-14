@@ -1,3 +1,72 @@
+/* === Dark Mode Styles === */
+body.dark-mode {
+  background: #181a1b !important;
+  color: #f3f3f3 !important;
+}
+
+body.dark-mode a,
+body.dark-mode .link,
+body.dark-mode .button {
+  color: #ffe066 !important;
+}
+
+body.dark-mode .footer,
+body.dark-mode .header,
+body.dark-mode .section-header {
+  background: #23272a !important;
+  color: #f3f3f3 !important;
+}
+
+body.dark-mode .card,
+body.dark-mode .content-container,
+body.dark-mode .contains-content-container {
+  background: #23272a !important;
+  color: #f3f3f3 !important;
+}
+
+body.dark-mode .dark-mode-toggle {
+  background: #23272a;
+  color: #ffe066;
+  border: 1px solid #ffe066;
+  border-radius: 2em;
+  padding: 0.4em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  margin: 0.5em 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+body.dark-mode .dark-mode-toggle:hover {
+  background: #ffe066;
+  color: #23272a;
+}
+
+.dark-mode-toggle {
+  background: #ffe066;
+  color: #23272a;
+  border: 1px solid #23272a;
+  border-radius: 2em;
+  padding: 0.4em 1.2em;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  margin: 0.5em 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.dark-mode-toggle:hover {
+  background: #23272a;
+  color: #ffe066;
+}
+
+.dark-toggle-icon {
+  font-size: 1.2em;
+}
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;

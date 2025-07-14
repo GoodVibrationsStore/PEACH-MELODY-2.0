@@ -1,11 +1,23 @@
 [
   {
-    "name": "theme_info",
-    "theme_name": "Peach Melody",
-    "theme_version": "2.0.0",
-    "theme_author": "Websiteboy",
-    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes",
-    "theme_support_url": "https://support.shopify.com/"
+    "name": "Dark Mode",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "enable_dark_mode_toggle",
+        "label": "Enable dark mode toggle (header & footer)",
+        "default": true
+      }
+    ]
+  },
+  {
+    "name": "Theme Info",
+    "settings": [
+      {
+        "type": "paragraph",
+        "content": "Theme: Peach Melody\nVersion: 2.0.0\nAuthor: Websiteboy\n[Documentation](https://help.shopify.com/manual/online-store/themes) | [Support](https://support.shopify.com/)"
+      }
+    ]
   },
   {
     "name": "t:settings_schema.logo.name",
