@@ -1,0 +1,80 @@
+{% comment %}
+  Customizable Marquee Section
+  Lets merchants add a scrolling marquee with custom text, emojis, color, speed, font, and background.
+  Usage: Add this section in the theme customizer and set your options.
+{% endcomment %}
+
+<section class="custom-marquee-section" style="background: {{ section.settings.bg_color }};">
+  <div class="page-width">
+    <marquee3k class="custom-marquee" speed="{{ section.settings.speed }}">
+      <span style="color: {{ section.settings.text_color }}; font-size: {{ section.settings.font_size }}; font-family: {{ section.settings.font_family }};">
+        {{ section.settings.text }}
+      </span>
+    </marquee3k>
+  </div>
+</section>
+
+<style>
+.custom-marquee-section {
+  padding: 1.5rem 0;
+}
+.custom-marquee {
+  width: 100%;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+}
+</style>
+
+{% schema %}
+{
+  "name": "Customizable Marquee",
+  "settings": [
+    {
+      "type": "text",
+      "id": "text",
+      "label": "Marquee Text",
+      "default": "🌈 Welcome to our shop! Enjoy free shipping 🚚 and new arrivals! 💖"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text Color",
+      "default": "#1f51ff"
+    },
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background Color",
+      "default": "#ffd1dc"
+    },
+    {
+      "type": "range",
+      "id": "speed",
+      "label": "Scroll Speed (lower is faster)",
+      "min": 0.5,
+      "max": 10,
+      "step": 0.1,
+      "default": 2
+    },
+    {
+      "type": "text",
+      "id": "font_size",
+      "label": "Font Size (e.g. 1.5rem, 24px)",
+      "default": "1.5rem"
+    },
+    {
+      "type": "text",
+      "id": "font_family",
+      "label": "Font Family (e.g. Arial, 'Comic Sans MS', cursive)",
+      "default": "inherit"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Customizable Marquee",
+      "category": "Text"
+    }
+  ]
+}
+{% endschema %}

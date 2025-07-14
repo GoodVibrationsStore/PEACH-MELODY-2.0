@@ -1,0 +1,63 @@
+/* Pastel and Neon Color Palette for Theme */
+:root {
+  /* Pastel Colors */
+  --color-pastel-pink: #ffd1dc;
+  --color-pastel-blue: #b5d0ff;
+  --color-pastel-green: #caffd0;
+  --color-pastel-yellow: #fffacc;
+  --color-pastel-purple: #e0bbff;
+  --color-pastel-orange: #ffe5b4;
+  --color-pastel-mint: #baffea;
+
+  /* Neon Colors */
+  --color-neon-pink: #ff6ec7;
+  --color-neon-green: #39ff14;
+  --color-neon-blue: #1f51ff;
+  --color-neon-yellow: #fcf800;
+  --color-neon-orange: #ff9933;
+  --color-neon-purple: #bc13fe;
+  --color-neon-cyan: #00ffe7;
+}
+
+/* Example usage for backgrounds, buttons, accents, and emoji styling */
+.bg-pastel-pink { background: var(--color-pastel-pink) !important; }
+.bg-pastel-blue { background: var(--color-pastel-blue) !important; }
+.bg-pastel-green { background: var(--color-pastel-green) !important; }
+.bg-pastel-yellow { background: var(--color-pastel-yellow) !important; }
+.bg-pastel-purple { background: var(--color-pastel-purple) !important; }
+.bg-pastel-orange { background: var(--color-pastel-orange) !important; }
+.bg-pastel-mint { background: var(--color-pastel-mint) !important; }
+
+/* Neon backgrounds for emoji highlight */
+.emoji-bg-neon-pink { background: var(--color-neon-pink) !important; border-radius: 50%; padding: 0.2em 0.4em; display: inline-block; }
+.emoji-bg-neon-green { background: var(--color-neon-green) !important; border-radius: 50%; padding: 0.2em 0.4em; display: inline-block; }
+.emoji-bg-neon-yellow { background: var(--color-neon-yellow) !important; border-radius: 50%; padding: 0.2em 0.4em; display: inline-block; }
+.emoji-bg-neon-blue { background: var(--color-neon-blue) !important; border-radius: 50%; padding: 0.2em 0.4em; display: inline-block; }
+.emoji-bg-pastel-pink { background: var(--color-pastel-pink) !important; border-radius: 50%; padding: 0.2em 0.4em; display: inline-block; }
+.emoji-bg-pastel-mint { background: var(--color-pastel-mint) !important; border-radius: 50%; padding: 0.2em 0.4em; display: inline-block; }
+
+/* Emoji border and shadow */
+.emoji-border-neon { border: 2px solid var(--color-neon-green); border-radius: 50%; box-shadow: 0 0 8px var(--color-neon-green); }
+.emoji-border-pastel { border: 2px solid var(--color-pastel-blue); border-radius: 50%; box-shadow: 0 0 8px var(--color-pastel-blue); }
+
+/* Emoji text color utilities */
+.emoji-text-neon-pink { color: var(--color-neon-pink) !important; }
+.emoji-text-neon-green { color: var(--color-neon-green) !important; }
+.emoji-text-neon-yellow { color: var(--color-neon-yellow) !important; }
+.emoji-text-neon-blue { color: var(--color-neon-blue) !important; }
+.emoji-text-pastel-pink { color: var(--color-pastel-pink) !important; }
+.emoji-text-pastel-mint { color: var(--color-pastel-mint) !important; }
+
+/* Example: <span class="emoji-bg-neon-pink emoji-border-neon">💖</span> */
+
+.bg-neon-pink { background: var(--color-neon-pink) !important; }
+.bg-neon-green { background: var(--color-neon-green) !important; }
+.bg-neon-blue { background: var(--color-neon-blue) !important; }
+.bg-neon-yellow { background: var(--color-neon-yellow) !important; }
+.bg-neon-orange { background: var(--color-neon-orange) !important; }
+.bg-neon-purple { background: var(--color-neon-purple) !important; }
+.bg-neon-cyan { background: var(--color-neon-cyan) !important; }
+
+.text-pastel-pink { color: var(--color-pastel-pink) !important; }
+.text-neon-green { color: var(--color-neon-green) !important; }
+/* Add more as needed for your theme elements */

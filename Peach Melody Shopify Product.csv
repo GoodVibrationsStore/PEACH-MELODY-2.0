@@ -1,0 +1,89 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / India,Price / India,Compare At Price / India,Included / International,Price / International,Compare At Price / International,Status
+sample-product-1,Sample Product 1,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,50.00,20.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/6.png?v=1714381826,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/5.png?v=1714381826,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/7.png?v=1714381826,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-2,Sample Product 2,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,60.00,30.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/7_7ec1b27c-a3a8-45d2-92a6-fd535ef61cda.png?v=1714381957,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/5_b8e47bed-d3b6-479c-a605-63462690d639.png?v=1714381957,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/6_04e72e46-54fc-476a-99b2-51d1bc1932b3.png?v=1714381958,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-3,Sample Product 3,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,70.00,30.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/5_07cb6a68-6df8-4a87-87bf-cdc6550470e9.png?v=1714382034,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/6_ab939397-f49d-4899-b24e-2b5941ffb7c1.png?v=1714382035,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-3,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/7_dfa8319c-7714-4e92-b3af-8ecdd42d0a8f.png?v=1714382035,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-4,Sample Product 4,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,50.00,30.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/8.png?v=1714382097,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/7_4aaea445-0aa7-422c-ab3b-3509c6532a0d.png?v=1714382096,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-4,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/11.png?v=1714382096,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-5,Sample Product 5,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,40.00,18.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/9.png?v=1714382180,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/10.png?v=1714382179,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/11_72e661c4-5ed5-4b45-a3e5-327dd9bef3e4.png?v=1714382179,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-6,Sample Product 6,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,34.00,21.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/10_5d3769a3-def5-4a0b-b1e6-74338586a426.png?v=1714382255,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/9_2a3f356a-e9ff-4ed8-a867-43552ec341e0.png?v=1714382254,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-6,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/11_56a80a67-d982-418e-ae28-0da8b76a3971.png?v=1714382254,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-7,Sample Product 7,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,73.00,39.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/11_842c1cbd-d77f-4703-b746-cb629f3f35e0.png?v=1714382311,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/10_4a5fa40a-1fe8-4c07-818d-3905850194a9.png?v=1714382311,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-7,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/5_23f05665-af12-467b-924b-6cf0cabe8530.png?v=1714382311,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-8,Sample Product 8,"<h2>DESCRIPTION</h2>
+<p>Cupcake ice cream dragée jelly lemon drops gummi bears. Gingerbread liquorice jelly gummies soufflé. Chocolate cake halvah sweet cupcake cookie lollipop dessert sugar plum cotton candy.</p>
+<p>Gummies jelly-o danish chupa chups cake. Brownie cake tart jelly beans cotton candy toffee caramels. Sesame snaps jelly dessert cake chupa chups jelly-o cheesecake.</p>
+<h5>FEATURING:</h5>
+<ul>
+<li>Gummies jelly-o danish chupa chups cake.</li>
+<li>Brownie cake tart jelly beans cotton candy toffee caramels.</li>
+<li>Sesame snaps jelly dessert cake chupa chups.</li>
+</ul>",PeachMelody websiteboy,Apparel & Accessories > Clothing,"","",true,Title,Default Title,,,,,,,,"",0.0,,0,deny,manual,83.00,35.00,true,true,"",https://cdn.shopify.com/s/files/1/0647/3714/9104/files/12.png?v=1714382365,1,"",false,,,,,,,,,,,,,,,kg,,,true,,,true,,,active
+sample-product-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/8_4bb0ddb5-e40a-4a2c-8393-586c82b5250f.png?v=1714382365,2,"",,,,,,,,,,,,,,,,,,,,,,,,,
+sample-product-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0647/3714/9104/files/9_9dedf85a-d60d-4a3d-b53d-367f6a831847.png?v=1714382365,3,"",,,,,,,,,,,,,,,,,,,,,,,,,
