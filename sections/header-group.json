@@ -1,1 +1,67 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"30% DISCOUNT SITEWIDE ON SELECTED ITEMS! ✨","link":""}}},"block_order":["announcement-bar-0"],"custom_css":[".announcement-bar__message {font-weight: 600; letter-spacing: 1px;}"],"settings":{"color_scheme":"scheme-a555bbbf-4688-4411-bba6-d63b1bb77e89","show_line_separator":true,"show_social":false,"auto_rotate":false,"change_slides_speed":5,"enable_country_selector":false,"enable_language_selector":false}},"header":{"type":"header","custom_css":[".list-menu__item {font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px;}"],"settings":{"logo_position":"top-center","menu":"main-menu","menu_type_desktop":"dropdown","sticky_header_type":"always","show_line_separator":true,"color_scheme":"scheme-8dfed2a5-cd49-4c09-8235-f73e1f974ae5","menu_color_scheme":"scheme-a555bbbf-4688-4411-bba6-d63b1bb77e89","enable_country_selector":false,"enable_language_selector":false,"mobile_logo_position":"center","margin_bottom":0,"padding_top":20,"padding_bottom":8}}},"order":["announcement-bar","header"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "30% DISCOUNT SITEWIDE ON SELECTED ITEMS! ✨",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0"
+      ],
+      "custom_css": [
+        ".announcement-bar__message {font-weight: 600; letter-spacing: 1px;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-6d43d889-3205-4ec9-b125-4e21c2a49be6",
+        "show_line_separator": true,
+        "show_social": true,
+        "auto_rotate": true,
+        "change_slides_speed": 7,
+        "enable_country_selector": true,
+        "enable_language_selector": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "custom_css": [
+        ".list-menu__item {font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px;}"
+      ],
+      "settings": {
+        "logo_position": "top-center",
+        "menu": "label-label-top-menu-for-all",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "always",
+        "show_line_separator": true,
+        "color_scheme": "scheme-2bf0b847-6646-4a40-b17d-2d0e32772554",
+        "menu_color_scheme": "scheme-6d43d889-3205-4ec9-b125-4e21c2a49be6",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
