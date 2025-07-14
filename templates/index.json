@@ -9,6 +9,23 @@
  */
 {
   "sections": {
+    "section_marquee_3k_YKBfex": {
+      "type": "section-marquee-3k",
+      "name": "Marquee Section",
+      "settings": {
+        "text": "<h2>Dive into the offbeat World of Good Vibrations Adult Super Store! Plenty of vibes for all kinds of tribes...</h2>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ff91a0",
+        "background_color": "#073e0d",
+        "font_size": 2,
+        "letter_spacing": 0,
+        "gap_size": 62,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
     "image_banner_responsive_DW7A94": {
       "type": "image-banner-responsive",
       "settings": {
@@ -25,52 +42,59 @@
         "show_text_below": true
       }
     },
-    "collection_list_RtdDXa": {
-      "type": "collection-list",
+    "section_marquee_3k_QgCVa6": {
+      "type": "section-marquee-3k",
+      "settings": {
+        "text": "<h2><strong>❤ SUMMER SALE COMING SOON ❤</strong></h2>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ff91a0",
+        "background_color": "#fff7e4",
+        "font_size": 3,
+        "letter_spacing": 0,
+        "gap_size": 45,
+        "padding_top": 12,
+        "padding_bottom": 8
+      }
+    },
+    "collage_a774pL": {
+      "type": "collage",
       "blocks": {
-        "featured_collection_XqpPVk": {
-          "type": "featured_collection",
+        "collection_F87zij": {
+          "type": "collection",
           "settings": {
-            "collection": "all-things-new"
+            "collection": "boutique-summer-sweatshirts"
           }
         },
-        "featured_collection_7KRgmY": {
-          "type": "featured_collection",
+        "collection_k8EVp6": {
+          "type": "collection",
           "settings": {
-            "collection": "best-sellers"
+            "collection": "boutique-summer-shirts"
           }
         },
-        "featured_collection_9gYVwV": {
-          "type": "featured_collection",
+        "collection_reqHjw": {
+          "type": "collection",
           "settings": {
-            "collection": "now-on-sale"
-          }
-        },
-        "featured_collection_8z9gby": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "new-arrivals"
+            "collection": "boutique-summer-extras"
           }
         }
       },
       "block_order": [
-        "featured_collection_XqpPVk",
-        "featured_collection_7KRgmY",
-        "featured_collection_9gYVwV",
-        "featured_collection_8z9gby"
+        "collection_F87zij",
+        "collection_k8EVp6",
+        "collection_reqHjw"
       ],
-      "custom_css": [],
+      "name": "t:sections.collage.presets.name",
       "settings": {
-        "title": "",
+        "heading": "Summer Vibes Collection",
         "heading_size": "h1",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "color_scheme": "scheme-6d43d889-3205-4ec9-b125-4e21c2a49be6",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "padding_top": 64,
+        "padding_bottom": 100
       }
     },
     "section_marquee_3k_RTDeGR": {
@@ -89,29 +113,133 @@
         "padding_bottom": 12
       }
     },
-    "featured_collection_FfwPfn": {
-      "type": "featured-collection",
-      "custom_css": [],
+    "multirow_EJnTjE": {
+      "type": "multirow",
+      "blocks": {
+        "row_DPchJg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-sports-tee-black-front-67afaa87e7566_beafbac0-9491-43c6-8dd5-d5d327b9cea5.webp",
+            "caption": "EveryDay",
+            "heading": "T-Shirts",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "T-Shirt Vibes",
+            "button_link": "shopify://collections/boutique-t-shirts"
+          }
+        },
+        "row_eeK8Ya": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-crew-neck-sweatshirt-sand-front-and-back-68634789ed36d_dee1f737-0c4f-4ee7-93ed-93177d2e353d.jpg",
+            "caption": "Its Sweater weather...",
+            "heading": "Sweatshirts Vibes",
+            "text": "<p>Our Sweater Selection features styles perfect for everyday wear all year round. Swing by for the amusement!</p>",
+            "button_label": "Sweatshirt Vibes",
+            "button_link": "shopify://collections/boutique-sweatshirts"
+          }
+        },
+        "row_3AnGy4": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/unisex-premium-hoodie-sky-blue-front-67ae94eca178d_07a3c7fd-b0ee-4c7d-b851-2bafeed736d3.webp",
+            "caption": "everyday",
+            "heading": "Hoodies",
+            "text": "<p>Our Hoodies Collection showcases designs for everyday wear that work all year long. Pop in for the fun!</p>",
+            "button_label": "Hoodie Vibes",
+            "button_link": "shopify://collections/boutique-hoodies"
+          }
+        }
+      },
+      "block_order": [
+        "row_DPchJg",
+        "row_eeK8Ya",
+        "row_3AnGy4"
+      ],
+      "name": "t:sections.multirow.presets.name",
       "settings": {
-        "title": "<strong>Fresh Looks Daily!</strong>",
-        "heading_size": "h2",
-        "description": "<h4>New Arrivals, Fully Loaded: Get Yours Today!</h4>",
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-2",
+        "row_color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_ajUJ43": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "KC Kingdom Collection",
+        "heading_size": "h1",
+        "description": "<p>Where you gotta fight, for your right, to party!</p>",
         "show_description": false,
-        "description_style": "body",
-        "collection": "best-sellers",
+        "description_style": "subtitle",
+        "collection": "boutique-kc-kingdom",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-2bf0b847-6646-4a40-b17d-2d0e32772554",
-        "image_ratio": "adapt",
+        "color_scheme": "scheme-921933ca-ad00-4602-8632-477b46efa2c6",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_marquee_3k_pk4674": {
+      "type": "section-marquee-3k",
+      "settings": {
+        "text": "<h4><strong>❤ SUMMER SALE COMING ❤</strong></h4>",
+        "speed_range": 0.1,
+        "pause_marquee": false,
+        "reverse_direction": false,
+        "text_color": "#ffffff",
+        "background_color": "#fc79aa",
+        "font_size": 1.5,
+        "letter_spacing": 0,
+        "gap_size": 12,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "featured_collection_VxUhUN": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "Camp Vibes Collection",
+        "heading_size": "h1",
+        "description": "<p>Tank, T-Shirts, Sweatshirts, and Hoodies. Teach in comfort & Style.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "camping-collection",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -377,10 +505,15 @@
     }
   },
   "order": [
+    "section_marquee_3k_YKBfex",
     "image_banner_responsive_DW7A94",
-    "collection_list_RtdDXa",
+    "section_marquee_3k_QgCVa6",
+    "collage_a774pL",
     "section_marquee_3k_RTDeGR",
-    "featured_collection_FfwPfn",
+    "multirow_EJnTjE",
+    "featured_collection_ajUJ43",
+    "section_marquee_3k_pk4674",
+    "featured_collection_VxUhUN",
     "image_banner_CQF48C",
     "newsletter_4qdd7D",
     "image_banner_responsive_QJrYAE",
