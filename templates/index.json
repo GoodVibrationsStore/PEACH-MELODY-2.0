@@ -94,7 +94,7 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-3",
         "padding_top": 56,
-        "padding_bottom": 100
+        "padding_bottom": 60
       }
     },
     "section_marquee_3k_RTDeGR": {
@@ -102,11 +102,11 @@
       "settings": {
         "text": "<h4><strong>❤ SUMMER SALE COMING ❤</strong></h4>",
         "speed_range": 0.1,
-        "pause_marquee": false,
+        "pause_marquee": true,
         "reverse_direction": false,
-        "text_color": "#ffffff",
-        "background_color": "#fc79aa",
-        "font_size": 1.5,
+        "text_color": "#fa8fa0",
+        "background_color": "#f9f9ec",
+        "font_size": 4,
         "letter_spacing": 0,
         "gap_size": 12,
         "padding_top": 12,
