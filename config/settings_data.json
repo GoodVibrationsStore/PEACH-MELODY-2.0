@@ -57,7 +57,7 @@
     "collection_card_style": "standard",
     "collection_card_image_padding": 0,
     "collection_card_text_alignment": "left",
-    "collection_card_color_scheme": "scheme-6302a415-6efb-4687-9371-3fe7388774a6",
+    "collection_card_color_scheme": "scheme-6d43d889-3205-4ec9-b125-4e21c2a49be6",
     "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 10,
     "collection_card_corner_radius": 8,
@@ -296,9 +296,9 @@
       },
       "scheme-39679514-4ffc-43d9-9c69-ac1501d309a0": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#ffa4b1",
           "background_gradient": "",
-          "text": "#000000",
+          "text": "#ffffff",
           "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
